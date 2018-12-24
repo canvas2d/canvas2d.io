@@ -49,4 +49,4 @@
 [submodule "16"]
 	path = 16
 	url = https://github.com/canvas2d/framework.git
-	branch = 16.tile_component
+	branch = 16.tiled_component
