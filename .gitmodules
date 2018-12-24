@@ -1,0 +1,44 @@
+[submodule "5"]
+	path = 5
+	url = https://github.com/canvas2d/framework.git
+	branch = 5.node_tree_component
+[submodule "6"]
+	path = 6
+	url = https://github.com/canvas2d/framework.git
+	branch = 6.graphics_component
+[submodule "7"]
+	path = 7
+	url = https://github.com/canvas2d/framework.git
+	branch = 7.session_component
+[submodule "8"]
+	path = 8
+	url = https://github.com/canvas2d/framework.git
+	branch = 8.common_vector_matrix
+[submodule "9"]
+	path = 9
+	url = https://github.com/canvas2d/framework.git
+	branch = 9.demo_2
+[submodule "10"]
+	path = 10
+	url = https://github.com/canvas2d/framework.git
+	branch = 10.animation_component
+[submodule "11"]
+	path = 11
+	url = https://github.com/canvas2d/framework.git
+	branch = 11.texture_animation
+[submodule "12"]
+	path = 12
+	url = https://github.com/canvas2d/framework.git
+	branch = 12.resolution_adapter
+[submodule "13"]
+	path = 13
+	url = https://github.com/canvas2d/framework.git
+	branch = 13.ui_position_relative
+[submodule "14"]
+	path = 14
+	url = https://github.com/canvas2d/framework.git
+	branch = 14.camera_component
+[submodule "15"]
+	path = 15
+	url = https://github.com/canvas2d/framework.git
+	branch = 15.dom_event_component

@@ -3,3 +3,5 @@ node_modules/mime
 node_modules/fast_tcp_server
 node_modules/streamsearch
 .DS_Store
+cache
+server.js
