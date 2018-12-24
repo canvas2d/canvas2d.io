@@ -46,4 +46,5 @@ class App {
         cache.push(item)
     }
 }
+
 export default App
