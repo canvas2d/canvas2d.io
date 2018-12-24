@@ -1,0 +1,16 @@
+{
+  "name": "canvas-2d-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast_tcp_server": "0.0.9",
+    "monaco-editor": "^0.15.6"
+  }
+}
