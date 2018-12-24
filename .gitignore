@@ -5,3 +5,4 @@ node_modules/streamsearch
 .DS_Store
 cache
 server.js
+package-lock.json

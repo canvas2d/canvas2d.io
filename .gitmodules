@@ -1,3 +1,7 @@
+[submodule "4"]
+	path = 4
+	url = https://github.com/canvas2d/framework.git
+	branch = 4.basic_framwork
 [submodule "5"]
 	path = 5
 	url = https://github.com/canvas2d/framework.git
@@ -42,3 +46,7 @@
 	path = 15
 	url = https://github.com/canvas2d/framework.git
 	branch = 15.dom_event_component
+[submodule "16"]
+	path = 16
+	url = https://github.com/canvas2d/framework.git
+	branch = 16.tile_component
