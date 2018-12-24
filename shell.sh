@@ -1,0 +1,13 @@
+git submodule add -b 4.basic_framwork https://github.com/canvas2d/framework.git 4
+git submodule add -b 5.node_tree_component https://github.com/canvas2d/framework.git 5
+git submodule add -b 6.graphics_component https://github.com/canvas2d/framework.git 6
+git submodule add -b 7.session_component https://github.com/canvas2d/framework.git 7
+git submodule add -b 8.common_vector_matrix https://github.com/canvas2d/framework.git 8
+git submodule add -b 9.demo_2 https://github.com/canvas2d/framework.git 9
+git submodule add -b 10.animation_component https://github.com/canvas2d/framework.git 10
+git submodule add -b 11.texture_animation https://github.com/canvas2d/framework.git 11
+git submodule add -b 12.resolution_adapter https://github.com/canvas2d/framework.git 12
+git submodule add -b 13.ui_position_relative https://github.com/canvas2d/framework.git 13
+git submodule add -b 14.camera_component https://github.com/canvas2d/framework.git 14
+git submodule add -b 15.dom_event_component https://github.com/canvas2d/framework.git 15
+git submodule add -b 16.tiled_component https://github.com/canvas2d/framework.git 16
