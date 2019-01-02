@@ -50,3 +50,11 @@
 	path = 16
 	url = https://github.com/canvas2d/framework.git
 	branch = 16.tiled_component
+[submodule "17"]
+	path = 17
+	url = https://github.com/canvas2d/framework.git
+	branch = 17.dom_render
+[submodule "18"]
+	path = 18
+	url = https://github.com/canvas2d/framework.git
+	branch = 18.webgl_render
