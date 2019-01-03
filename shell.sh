@@ -11,3 +11,6 @@ git submodule add -b 13.ui_position_relative https://github.com/canvas2d/framewo
 git submodule add -b 14.camera_component https://github.com/canvas2d/framework.git 14
 git submodule add -b 15.dom_event_component https://github.com/canvas2d/framework.git 15
 git submodule add -b 16.tiled_component https://github.com/canvas2d/framework.git 16
+git submodule add -b 17.dom_render https://github.com/canvas2d/framework.git 17
+git submodule add -b 18.webgl_render https://github.com/canvas2d/framework.git 18
+git submodule add -b 19.text https://github.com/canvas2d/framework.git 19
