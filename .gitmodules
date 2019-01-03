@@ -58,3 +58,7 @@
 	path = 18
 	url = https://github.com/canvas2d/framework.git
 	branch = 18.webgl_render
+[submodule "19"]
+	path = 19
+	url = https://github.com/canvas2d/framework.git
+	branch = 19.text
